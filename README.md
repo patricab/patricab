@@ -11,10 +11,6 @@ My passions range everywhere from electronics, music, space technology and susta
 * Github: [@patricab](https://github.com/patricab)
 * LinkedIn: [@patric-andre-berthelsen](https://linkedin.com/in/patric-andre-berthelsen)
 
-## Show your support
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G84GOQ0)
-
-
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
